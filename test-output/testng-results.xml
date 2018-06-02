@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="webdriveruniversityframework" duration-ms="17451" started-at="2018-06-01T19:49:44Z" finished-at="2018-06-01T19:50:02Z">
+  <suite name="webdriveruniversityframework" duration-ms="18852" started-at="2018-06-01T22:16:05Z" finished-at="2018-06-01T22:16:24Z">
     <groups>
     </groups>
-    <test name="Cucumber Tests" duration-ms="17451" started-at="2018-06-01T19:49:44Z" finished-at="2018-06-01T19:50:02Z">
+    <test name="Cucumber Tests" duration-ms="18852" started-at="2018-06-01T22:16:05Z" finished-at="2018-06-01T22:16:24Z">
     </test> <!-- Cucumber Tests -->
   </suite> <!-- webdriveruniversityframework -->
 </testng-results>
